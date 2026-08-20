@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jhanks</title>
+  <subtitle>Jang JeongAhn (Jhanks) — offensive security researcher. 모바일 · 웹 · 바이너리 취약점 분석 노트.</subtitle>
+  <id>https://jhanks.kr/</id>
+  <link href="https://jhanks.kr/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://jhanks.kr/" rel="alternate" type="text/html"/>
+  <updated>2026-08-20T03:50:55+00:00</updated>
+  <author>
+    <name>Jhanks</name>
+  </author>
+</feed>
